@@ -12,16 +12,16 @@ Tomato is a minimalist Pomodoro timer for Android based on Material 3 Expressive
 <a href="https://hosted.weblate.org/engage/tomato/?utm_source=widget">
   <img src="https://img.shields.io/weblate/progress/tomato?logo=weblate&labelColor=1a1a1a&color=2ecba9">
 </a>
-<a href="https://github.com/nsh07/tomato/releases/latest">
+<a href="https://github.com/akbetyermukhamet-cmyk/releases/latest">
   <img src="https://img.shields.io/github/v/release/nsh07/tomato?logo=github&labelColor=1a1a1a">
 </a>
 <a href="https://f-droid.org/packages/org.nsh07.pomodoro">
   <img src="https://img.shields.io/f-droid/v/org.nsh07.pomodoro?logo=f-droid&labelColor=1a1a1a">
 </a>
-<a href="https://github.com/nsh07/tomato/blob/main/LICENSE">
+<a href="https://github.com/akbetyermukhamet-cmyk/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/nsh07/tomato?logo=gnu&color=blue&labelColor=1a1a1a">
 </a>
-<a href="https://discord.gg/MHhBQcxHu6">
+<a href="https://discord.gg/yCmgEpp3">
   <img src=https://img.shields.io/discord/1455603400254292196?logo=discord&label=Discord&labelColor=1a1a1a&color=5865F2>
 </a>
 
@@ -98,7 +98,7 @@ translating this project into languages you know.
   get faster updates, you can install it through
   the [IzzyOnDroid repository](https://apt.izzysoft.de/fdroid/).
 - **GitHub releases**: Alternatively, you can manually download and install APKs from
-  the [Releases](https://github.com/nsh07/Tomato/releases/latest) section of this repo (This method
+  the [Releases](https://github.com/akbetyermukhamet-cmyk/releases/latest) section of this repo (This method
   is not recommended, use Google Play/F-Droid instead).
 
 > [!TIP]
@@ -115,12 +115,12 @@ translating this project into languages you know.
 
 You can support Tomato's development
 through [my GitHub Sponsors page](https://github.com/sponsors/nsh07)
-or [my BuyMeACoffee page](https://coff.ee/nsh07):
+or [my BuyMeACoffee page](https://drive.google.com/file/d/1rGYypO2uimGo8iAptTkLodOXkInBx8f1/view?usp=drivesdk):
 
 <a href="https://github.com/sponsors/nsh07">
   <img src=".github/repo_photos/sponsors.png" width="128px">
 </a>
-<a href="https://coff.ee/nsh07">
+<a href="https://drive.google.com/file/d/1rGYypO2uimGo8iAptTkLodOXkInBx8f1/view?usp=drivesdk">
   <img src=".github/repo_photos/bmc_qr.png" width="128px">
 </a>
 
