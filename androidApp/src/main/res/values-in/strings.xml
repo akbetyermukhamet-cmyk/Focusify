@@ -58,10 +58,10 @@
     <string name="sound">Suara</string>
     <string name="dnd">Jangan Ganggu</string>
     <string name="dnd_desc">Aktifkan mode Jangan Ganggu ketika timer Fokus berjalan</string>
-    <string name="get_plus">Dapatkan Tomato+</string>
+    <string name="get_plus">Dapatkan Focusify+</string>
     <string name="dynamic_color">Warna dinamis</string>
     <string name="dynamic_color_desc">Sesuaikan warna tema dari wallpaper perangkat</string>
-    <string name="tomato_foss">Tomato FOSS</string>
+    <string name="tomato_foss">Focusify FOSS</string>
     <string name="tomato_foss_desc">Semua fitur tidak terkunci di versi sumber terbuka ini. Jika aplikasi ini bermanfaat , mohon pertimbangkan untuk dukung saya dengan berdonasi di %1$s.</string>
     <string name="language">Bahasa</string>
     <string name="choose_language">Pilih bahasa</string>

@@ -60,10 +60,10 @@
     <string name="choose_language">Wybierz język</string>
     <string name="skip_to_next">Przejdź do następnego</string>
     <string name="timer_session_count">%1$d z %2$d</string>
-    <string name="help_with_translation">Pomóż przetłumaczyć Tomato</string>
+    <string name="help_with_translation">Pomóż przetłumaczyć Focusify</string>
     <string name="rate_on_google_play">Wystaw ocenę na Google Play</string>
     <string name="dynamic_color_desc">Dostosuj kolory motywu do swojej tapety</string>
-    <string name="get_plus">Uzyskaj wersję Tomato+</string>
+    <string name="get_plus">Uzyskaj wersję Focusify+</string>
     <string name="hours_and_minutes_format">%dh %dm</string>
     <string name="hours_format">%dg</string>
     <string name="minutes_format">%dm</string>
@@ -73,10 +73,10 @@
     <string name="timer_settings_reset_info">Zresetuj timer, aby zmienić ustawienia</string>
     <string name="tomato_foss_desc">W tej wersji wszystkie funkcje są odblokowane. Jeśli moja aplikacja zmieniła Twoje życie, rozważ wsparcie mnie poprzez darowiznę na %1$s.</string>
     <string name="about">O aplikacji</string>
-    <string name="help_with_translation_desc">Przetłumacz Tomato na swój język</string>
+    <string name="help_with_translation_desc">Przetłumacz Focusify na swój język</string>
     <string name="rate_on_google_play_desc">Podoba Ci się aplikacja? Napisz recenzję!</string>
     <string name="bmc_desc">Wesprzyj mnie niewielką darowizną</string>
-    <string name="tomato_plus_desc">Dodatkowe możliwości z Tomato+</string>
+    <string name="tomato_plus_desc">Dodatkowe możliwości z Focusify+</string>
     <string name="license">Licencja</string>
     <string name="start_next">Rozpocznij następny</string>
     <string name="auto_start_next_timer">Automatycznie startuj następny timer</string>

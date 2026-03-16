@@ -57,13 +57,13 @@
     <string name="appearance">Aspetto</string>
     <string name="sound">Suono</string>
     <string name="dnd">Non disturbare</string>
-    <string name="get_plus">Ottieni Tomato+</string>
+    <string name="get_plus">Ottieni Focusify+</string>
     <string name="dynamic_color_desc">Adatta i colori del tema dal tuo sfondo</string>
     <string name="language">Lingua</string>
     <string name="choose_language">Scegli la lingua</string>
     <string name="durations">Durate</string>
     <string name="dnd_desc">Attiva la modalità non disturbare quando avvii un timer di concentrazione.</string>
-    <string name="tomato_foss">Tomato FOSS</string>
+    <string name="tomato_foss">Focusify FOSS</string>
     <string name="rate_on_google_play">Valuta su Google Play</string>
     <string name="selected">Selezionato</string>
     <string name="dynamic_color">Colore dinamico</string>

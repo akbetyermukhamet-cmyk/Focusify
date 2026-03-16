@@ -1,17 +1,17 @@
 <!--
-  ~ Copyright (c) 2025-2026 Nishant Mishra
+  ~ Copyright (c) 2025-2026 Akbet Ereke
   ~
-  ~ This file is part of Tomato - a minimalist pomodoro timer for Android.
+  ~ This file is part of Focusify - a minimalist pomodoro timer for Android.
   ~
-  ~ Tomato is free software: you can redistribute it and/or modify it under the terms of the GNU
+  ~ Focusify is free software: you can redistribute it and/or modify it under the terms of the GNU
   ~ General Public License as published by the Free Software Foundation, either version 3 of the
   ~ License, or (at your option) any later version.
   ~
-  ~ Tomato is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even
+  ~ Focusify is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even
   ~ the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
   ~ Public License for more details.
   ~
-  ~ You should have received a copy of the GNU General Public License along with Tomato.
+  ~ You should have received a copy of the GNU General Public License along with Focusify.
   ~ If not, see <https://www.gnu.org/licenses/>.
   -->
 
@@ -22,12 +22,13 @@
     <string name="alarm_sound">Alarm sound</string>
     <string name="always_on_display">Always On Display</string>
     <string name="always_on_display_desc">Tap anywhere when viewing the timer to switch to AOD mode</string>
-    <string name="app_name">Tomato</string>
-    <string name="app_name_plus">Tomato+</string>
+    <string name="app_name">Focusify</string>
+    <string name="app_name_plus">Focusify+</string>
     <string name="appearance">Appearance</string>
     <string name="auto_start_next_timer">Auto start next timer</string>
     <string name="auto_start_next_timer_desc">Start next timer after stopping an alarm</string>
     <string name="back">Back</string>
+    <string name="calendar">Calendar</string>
     <string name="black_theme">Black theme</string>
     <string name="black_theme_desc">Use a pure black dark theme</string>
     <string name="bmc">BuyMeACoffee</string>
@@ -61,9 +62,9 @@
     <string name="focus_history_heatmap_desc">Focus history of the past year. Deeper colors represent a longer duration. Days are grouped by month. Tap on a day for more info.</string>
     <string name="focus_per_day_avg">focus per day (avg)</string>
     <string name="gap">Gap</string>
-    <string name="get_plus">Get Tomato+</string>
-    <string name="help_with_translation">Help translate Tomato</string>
-    <string name="help_with_translation_desc">Translate Tomato into your language</string>
+    <string name="get_plus">Get Focusify+</string>
+    <string name="help_with_translation">Help translate Focusify</string>
+    <string name="help_with_translation_desc">Translate Focusify into your language</string>
     <string name="history_widget_desc">See a chart of the focus durations of the past few days. The number of days displayed depends on the size of the widget.</string>
     <string name="hours_and_minutes_format">%1$dh %2$dm</string>
     <string name="hours_format">%1$dh</string>
@@ -123,9 +124,9 @@
     <string name="timer_settings_reset_info">Reset the timer to change settings</string>
     <string name="today">Today</string>
     <string name="today_widget_desc">Today\'s focus stats</string>
-    <string name="tomato_foss">Tomato FOSS</string>
+    <string name="tomato_foss">Focusify FOSS</string>
     <string name="tomato_foss_desc">All features are unlocked in this version. If my app made a difference in your life, please consider supporting me by donating on %1$s.</string>
-    <string name="tomato_plus_desc">Customize further with Tomato+</string>
+    <string name="tomato_plus_desc">Customize further with Focusify+</string>
     <string name="total">total</string>
     <string name="undo">Undo</string>
     <string name="up_next">Up next</string>
@@ -146,4 +147,75 @@
     <string name="choose_file">Choose file</string>
     <string name="restart_app">Restart app</string>
     <string name="vibration_pattern">Vibration pattern</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Your Ultimate Pomodoro Productivity Assistant</string>
+    <string name="onboarding_desc_1">Focusify helps you stay on track, manage tasks and work efficiently. Let\'s get started with Focusify right now!</string>
+    <string name="onboarding_title_2">Effortless Organization - All in One Place</string>
+    <string name="onboarding_desc_2">Easily categorize your work, stay organized, and conquer tasks with Focusify\'s intuitive project and tag system.</string>
+    <string name="onboarding_title_3">Track Your Progress &amp; Visualize Your Success</string>
+    <string name="onboarding_desc_3">Track your productivity over time, gain insights, and level up your efficiency. It\'s time to achieve your goals.</string>
+    <string name="get_started">Get Started</string>
+    <string name="continue_">Continue</string>
+    <string name="welcome_title">Let\'s Get Started!</string>
+    <string name="welcome_desc">Let\'s dive in into your account</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="continue_apple">Continue with Apple</string>
+    <string name="continue_facebook">Continue with Facebook</string>
+    <string name="continue_twitter">Continue with Twitter</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+
+    <!-- Auth -->
+    <string name="join_focusify_today">Join Focusify Today</string>
+    <string name="unlock_productivity">Unlock Your Productivity Potential!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up_label">Sign Up</string>
+    <string name="login_label">Login</string>
+    <string name="forgot_password_label">Forgot Password?</string>
+    <string name="send_reset_email">Send Reset Email</string>
+    <string name="already_have_account_label">Already have an account?</string>
+    <string name="dont_have_account_label">Don\'t have an account?</string>
+    <string name="welcome_back_title">Welcome Back</string>
+    <string name="forgot_password_title_label">Forgot Password</string>
+    <string name="forgot_password_desc_label">Enter your email address and we will send you a link to reset your password.</string>
+    <string name="signing_up_label">Signing up...</string>
+    <string name="logging_in_label">Logging in...</string>
+    <string name="sending_email_label">Sending email...</string>
+    <string name="reset_link_sent">Password reset link sent to your email.</string>
+    <string name="error_email_empty">Email cannot be empty</string>
+    <string name="error_email_invalid">Invalid email format</string>
+    <string name="error_password_empty">Password cannot be empty</string>
+    <string name="error_password_too_short">Password must be at least 8 characters</string>
+    <string name="error_password_no_digit">Password must contain at least one digit</string>
+    <string name="error_password_no_uppercase">Password must contain at least one uppercase letter</string>
+    <string name="error_password_no_special">Password must contain at least one special character</string>
+    <string name="error_passwords_dont_match">Passwords do not match</string>
+    <string name="get_back_to_productivity">Let\'s Get Back to Productivity</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="signing_up">Sign up…</string>
+    <string name="logging_in">Log in…</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Forgot Your Password? 🔑</string>
+    <string name="forgot_password_desc">No worries, we\'ll help you reset it. Please enter the email associated with your Focusify account.</string>
+    <string name="your_registered_email">Your Registered Email</string>
+    <string name="send_otp_code">Send OTP Code</string>
+    <string name="enter_otp_code_title">Enter OTP Code 🔐</string>
+    <string name="enter_otp_code_desc">We\'ve sent you an OTP code to your registered email address. Please check your inbox and enter the code here.</string>
+    <string name="resend_code_timer">You can resend the code in %1$d seconds</string>
+    <string name="resend_code">Resend code</string>
+    <string name="secure_your_account_title">Secure Your Account 🔒</string>
+    <string name="secure_your_account_desc">Almost there! Create a new password for your Focusify account to keep it secure. Remember to choose a strong and unique password.</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="save_new_password">Save New Password</string>
+    <string name="you_are_all_set">You\'re All Set!</string>
+    <string name="password_reset_success">Congratulations! Your password has been changed successfully.</string>
+    <string name="go_to_homepage">Go to Homepage</string>
+    <string name="incompleted">Incompleted</string>
+    <string name="planned">Planned</string>
 </resources>

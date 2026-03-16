@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (c) 2025 Nishant Mishra
+  ~ Copyright (c) 2025 Akbet Ereke
   ~
-  ~ This file is part of Tomato - a minimalist pomodoro timer for Android.
+  ~ This file is part of Focusify - a minimalist pomodoro timer for Android.
   ~
-  ~ Tomato is free software: you can redistribute it and/or modify it under the terms of the GNU
+  ~ Focusify is free software: you can redistribute it and/or modify it under the terms of the GNU
   ~ General Public License as published by the Free Software Foundation, either version 3 of the
   ~ License, or (at your option) any later version.
   ~
-  ~ Tomato is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even
+  ~ Focusify is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even
   ~ the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
   ~ Public License for more details.
   ~
-  ~ You should have received a copy of the GNU General Public License along with Tomato.
+  ~ You should have received a copy of the GNU General Public License along with Focusify.
   ~ If not, see <https://www.gnu.org/licenses/>.
   --><resources xmlns:tools="http://schemas.android.com/tools">
     <string name="alarm">Ξυπνητήρι</string>
@@ -40,8 +40,8 @@
     <string name="exit">Έξοδος</string>
     <string name="focus">Εστίαση</string>
     <string name="focus_per_day_avg">εστίαση ανά ημέρα (μο)</string>
-    <string name="get_plus">Απόκτησε το Tomato+</string>
-    <string name="help_with_translation">Βοήθησε στη μετάφραση του Tomato</string>
+    <string name="get_plus">Απόκτησε το Focusify+</string>
+    <string name="help_with_translation">Βοήθησε στη μετάφραση του Focusify</string>
     <string name="hours_and_minutes_format">%1$dώ %2$dλ</string>
     <string name="hours_format">%1$dώ</string>
     <string name="language">Γλώσσα</string>
@@ -89,10 +89,10 @@
     <string name="vibrate">Δόνηση</string>
     <string name="vibrate_desc">Δόνηση όταν ένα χρονόμετρο ολοκληρώνεται</string>
     <string name="about">Σχετικά</string>
-    <string name="help_with_translation_desc">Μετέφρασε το Tomato στη γλώσσα σου</string>
+    <string name="help_with_translation_desc">Μετέφρασε το Focusify στη γλώσσα σου</string>
     <string name="rate_on_google_play_desc">Σου αρέσει η εφαρμογή; Αξιολόγησε!</string>
     <string name="bmc_desc">Υποστήριξέ με, με μια μικρή δωρεά</string>
-    <string name="tomato_plus_desc">Προσάρμοσε περαιτέρω με το Tomato+</string>
+    <string name="tomato_plus_desc">Προσάρμοσε περαιτέρω με το Focusify+</string>
     <string name="license">Άδεια</string>
     <string name="media_volume_for_alarm">Λειτουργία ακουστικών</string>
     <string name="media_volume_for_alarm_desc">Παίζει μόνο σε ακουστικά. Εάν τα ακουστικά αποσυνδεθούν, το κουδούνισμα παίζει μέσω του ηχείου σε ένταση πολυμέσου.</string>
