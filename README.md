@@ -42,30 +42,6 @@ Tomato is a minimalist Pomodoro timer for Android based on Material 3 Expressive
   </a>
 </p>
 
-<br/>
-
-> *"It just might be the best looking timer app that I've ever seen"*
-
-\- [*HowToMen* on YouTube](https://www.youtube.com/watch?v=iwvHk4SUrMQ&t=280s)
-
-<br/>
-
-> *"... an app to support this habit helps me stay focused and get things done. Currently, that app
-is Tomato."*
-
-\- [*Android
-Authority*](https://www.androidauthority.com/best-new-android-apps-october-2025-3602966/)
-
-<br/>
-
-</div>
-
-## Screenshots
-
-<p align="center" width="100%">
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/7.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="25%">
-</p>
-
 ### Features
 
 - Minimalist UI based on the latest Material 3 Expressive guidelines
@@ -76,59 +52,6 @@ Authority*](https://www.androidauthority.com/best-new-android-apps-october-2025-
       productive
 - Customizable timer parameters
 - Support for Now Bar/Live Updates on Android 16 and later
-
-## Translation
-
-This project is [available on Hosted Weblate](https://hosted.weblate.org/engage/tomato/) for
-translation.
-
-You can contribute to this project even if you are not a developer by helping in
-translating this project into languages you know.
-
-<a href="https://hosted.weblate.org/engage/tomato/">
-<img src="https://hosted.weblate.org/widget/tomato/horizontal-auto.svg" alt="Translation status" />
-</a>
-
-## Download
-
-- **Google Play Store** (recommended): Tomato is available on the Google Play Store.
-  [You can download it through this link](https://play.google.com/store/apps/details?id=org.nsh07.pomodoro).
-- **F-Droid** (recommended): Tomato is available on the official F-Droid repository. Simply open
-  your preferred F-Droid app and search for Tomato. Updates on F-Droid are generally a week late. To
-  get faster updates, you can install it through
-  the [IzzyOnDroid repository](https://apt.izzysoft.de/fdroid/).
-- **GitHub releases**: Alternatively, you can manually download and install APKs from
-  the [Releases](https://github.com/akbetyermukhamet-cmyk/releases/latest) section of this repo (This method
-  is not recommended, use Google Play/F-Droid instead).
-
-> [!TIP]
-> To [verify](https://developer.android.com/studio/command-line/apksigner#usage-verify) the APK
-> downloaded from GitHub, use the following signing certificate fingerprints:
-> ```
->   SHA1: B1:4E:17:93:11:E8:DB:D5:35:EF:8D:E9:FB:8F:FF:08:F8:EC:65:08
-> SHA256: 07:BE:F3:05:81:BA:EE:8F:45:EC:93:E4:7E:E6:8E:F2:08:74:E5:0E:F5:70:9C:78:B2:EE:67:AC:86:BE:4C:3D
-> ```
-> The SHA256 and MD5 hashes of the individual APK files are also available in the `checksum.txt`
-> file for each release.
-
-## Donate
-
-You can support Tomato's development
-through [my GitHub Sponsors page](https://github.com/sponsors/nsh07)
-or [my BuyMeACoffee page](https://drive.google.com/file/d/1rGYypO2uimGo8iAptTkLodOXkInBx8f1/view?usp=drivesdk):
-
-<a href="https://github.com/sponsors/nsh07">
-  <img src=".github/repo_photos/sponsors.png" width="128px">
-</a>
-<a href="https://drive.google.com/file/d/1rGYypO2uimGo8iAptTkLodOXkInBx8f1/view?usp=drivesdk">
-  <img src=".github/repo_photos/bmc_qr.png" width="128px">
-</a>
-
-### Members and Sponsors
-
-- Shun Min Chang ([@jack24254029](https://github.com/jack24254029) on GitHub)
-- Chinedu Oji (on BuyMeACoffee)
-- Zach Alden (on BuyMeACoffee)
 
 ## Special Thanks
 
@@ -147,9 +70,3 @@ This app was made possible by the following libraries:
 
 - [Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex) by
   Google<br/><img src=".github/repo_photos/google-sans-flex.jpg" width="400">
-
-## Star History
-
-Please give this repo a star if you liked my work
-
-[![Star History Chart](https://app.repohistory.com/api/svg?repo=nsh07/Tomato&type=Date&background=F9FAEF&color=4C662B)](https://app.repohistory.com/star-history)
