@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2025-2026 Nishant Mishra
+ * Copyright (c) 2025-2026 Akbet Ereke
  *
  * This file is part of Tomato - a minimalist pomodoro timer for Android.
  *
@@ -26,6 +26,7 @@ plugins {
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.ksp)
     alias(libs.plugins.koin.compiler)
+    alias(libs.plugins.google.services)
 }
 
 tasks.withType(Test::class) {
@@ -37,11 +38,11 @@ tasks.withType(Test::class) {
 }
 
 android {
-    namespace = "org.nsh07.pomodoro"
+    namespace = "com.example.focusify"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "org.nsh07.pomodoro"
+        applicationId = "com.example.focusify"
         minSdk = 26
         targetSdk = 36
         versionCode = 29
@@ -117,6 +118,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation("androidx.compose.material:material-icons-extended")
 
     implementation(libs.androidx.navigation3.runtime)
     implementation(libs.androidx.navigation3.ui)
@@ -135,6 +137,10 @@ dependencies {
     "playImplementation"(libs.revenuecat.purchases)
     "playImplementation"(libs.revenuecat.purchases.ui)
 
+    // Firebase
+    implementation(platform(libs.firebase.bom))
+    implementation(libs.firebase.auth)
+
     // koin
     implementation(project.dependencies.platform(libs.koin.bom))
     implementation(libs.koin.core)
@@ -142,6 +148,9 @@ dependencies {
     implementation(libs.koin.compose)
 
     testImplementation(libs.junit)
+    testImplementation("io.mockk:mockk:1.13.17")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.10.1")
+    testImplementation("app.cash.turbine:turbine:1.2.0")
 
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

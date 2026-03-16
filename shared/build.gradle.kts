@@ -12,7 +12,7 @@ plugins {
 
 kotlin {
     androidLibrary {
-        namespace = "org.nsh07.pomodoro.shared"
+        namespace = "com.example.focusify.shared"
         compileSdk = 36
         minSdk = 26
 
